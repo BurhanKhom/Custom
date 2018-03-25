@@ -1,11 +1,11 @@
-/************************************
-*Program to display Employee Records*
-*in ascending order of their salary.*
-*************************************
-*Author : burhankhom009			    *
-*Date   : Sun, 25 March 2018        *
-*Time   : 4:58 PM                   *
-*************************************/
+/**************************************
+* Program to display Employee Records *
+* in ascending order of their salary. *
+***************************************
+* Author : burhankhom009	      *
+* Date   : Sun, 25 March 2018         *
+* Time   : 4:58 PM                    *
+***************************************/
 #include<stdio.h>
 #include<string.h>
 typedef struct emp
